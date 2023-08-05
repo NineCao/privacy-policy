@@ -1,8 +1,8 @@
 # Terms of Service
 
-Last updated: April 26th, 2023
+Last updated: Augest 5th, 2023
 
-These Terms of Service (“Terms”) apply when you access or use our website, [https://crazycao.github.io/privacy-policy/](https://crazycao.github.io/privacy-policy/) (“Website”), our mobile application and the services provided through the Website and App (collectively, “Services”). The Service is provided to you by our company (“we,” “us” and “our”). These Terms explain the terms and conditions that will govern your use of the Services.  
+These Terms of Service (“Terms”) apply when you access or use our website, [https://nineetc.github.io/privacy-policy/](https://nineetc.github.io/privacy-policy/) (“Website”), our mobile application and the services provided through the Website and App (collectively, “Services”). The Service is provided to you by our company (“we,” “us” and “our”). These Terms explain the terms and conditions that will govern your use of the Services.  
 
 By accessing or using our Services, you indicate that you agree to be bound by these Terms. If you do not wish to be bound by these Terms, please do not use the Services.
 

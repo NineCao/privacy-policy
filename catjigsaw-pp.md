@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Last updated: April 26th, 2023
+Last updated: Augest 5th, 2023
 
 We care about protecting your personal information. This Privacy Policy (“Policy”) explains how our company and its subsidiaries and affiliated companies (“we,” or “us,”) collect, use, and share your personal information when you access or use the mobile application or any associated features, content, or pages owned or operated by us (collectively, “Services”). This Policy does not address the privacy practices of any third parties that we do not own or control.
 

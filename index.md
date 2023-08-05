@@ -5,6 +5,6 @@
 
 ## [Privacy Policy](https://nineetc.github.io/privacy-policy/catjigsaw-pp.html)
 
-Contact Us：[ningcaoNine@gmail.com](mailto: ningcaoNine@gmail.com)
+Contact Us：[ningcaoNine@gmail.com](mailto:ningcaoNine@gmail.com)
 
 _Hangzhou HeiChe Technology Co., Ltd_
